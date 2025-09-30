@@ -5,6 +5,6 @@
 <h1 align="center">⛧ Jas1in ⛧</h1>
 
 <p align="center">
-  ☠ 𝖆вүѕѕ тєχт ☠ <br/>
+  ☠ #&^d*&^RDGHASU^Q&!(ESTXUT&QXINDIQ ☠ <br/>
   ⚙ s̷͎̠̯̐͑q̴̰...  
 </p>
