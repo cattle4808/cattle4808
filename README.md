@@ -1,10 +1,10 @@
-<table>
-<tr>
-  <td>
-    <img src="https://github.com/cattle4808/cattle4808/blob/main/pngegg.png" width="800" height="80"/>
-  </td>
-  <td>
-    <h1 align="center">⛧ Jas1in ⛧</h1>
-  </td>
-</tr>
-</table>
+<p align="center">
+  <img src="https://github.com/cattle4808/cattle4808/blob/main/pngegg.png" width="100%" height="80"/>
+</p>
+
+<h1 align="center">⛧ Jas1in ⛧</h1>
+
+<p align="center">
+  ☠ 𝖆вүѕѕ тєχт ☠ <br/>
+  ⚙ s̷͎̠̯̐͑q̴̰...  
+</p>
