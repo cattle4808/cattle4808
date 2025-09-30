@@ -14,10 +14,14 @@
 <h2 align="center">⚙ 𝕊𝕥𝕖𝕔𝕜 ⚙</h2>
 
 <p align="center">
-  🜏 Python <br/>
-  🜏 Django / DRF <br/>
-  🜏 FastAPI <br/>
+  <img src="https://img.shields.io/badge/Python-ᚱᚨᛞᛁᛖᚲᛏ-blue?style=for-the-badge&logo=python&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/Django%20%2F%20DRF-☠-darkgreen?style=for-the-badge&logo=django&logoColor=white" /><br/>
+  <img src="https://img.shields.io/badge/FastAPI-⚡-black?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+
+
+
+
 
 ---
 
