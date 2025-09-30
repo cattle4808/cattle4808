@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/FastAPI-⚡-black?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
 
-
+___
 
 <p align="center">
 
