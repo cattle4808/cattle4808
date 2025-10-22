@@ -18,6 +18,10 @@
   <img src="https://img.shields.io/badge/Django%20%2F%20DRF-☠-darkgreen?style=for-the-badge&logo=django&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-⚡-black?style=for-the-badge&logo=fastapi&logoColor=white" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/cattle4808/cattle4808/main/Parad1st-snake.svg" alt="GitHub Snake" />
+</p>
+
 
 ___
 
